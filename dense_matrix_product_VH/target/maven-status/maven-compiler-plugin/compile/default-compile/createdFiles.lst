@@ -1,0 +1,7 @@
+matrix/product/vh/MatrixProductVH.class
+matrix/product/vh/MatrixSumReducer.class
+matrix/product/vh/MatrixFormatOutputMapper.class
+matrix/product/vh/MatrixFormatOutputReducer.class
+matrix/product/vh/MatrixSumMapper.class
+matrix/product/vh/MatrixProductVHMapper.class
+matrix/product/vh/MatrixProductVHReducer.class

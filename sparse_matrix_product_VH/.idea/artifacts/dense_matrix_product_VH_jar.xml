@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dense_matrix_product_VH:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dense_matrix_product_VH_jar</output-path>
+    <root id="archive" name="dense_matrix_product_VH.jar">
+      <element id="module-output" name="dense_matrix_product_VH" />
+      <element id="extracted-dir" path="/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/lib/tools.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
